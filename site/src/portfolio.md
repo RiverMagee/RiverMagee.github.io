@@ -5,4 +5,4 @@ pagination:
   size: 3
   alias: portfolios
 ---
-# We build better <span>products</span> to help our clients build better <span>companies</span>
+# Here is a collection of <span>projects</span> that I have participated in and/or <span>collaborated</span> on.

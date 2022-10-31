@@ -14,7 +14,7 @@ hero:
 
 portfolio:
   subTitle: "MY RECENT WORK"
-  title: "Here are some examples of personal and professional projects I have worked on / collaberated with."
+  title: "Here are some examples of personal and professional projects I have worked on / collaborated with."
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"
