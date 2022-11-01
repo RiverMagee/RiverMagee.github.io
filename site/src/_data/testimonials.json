@@ -1,10 +1,10 @@
 {
-  "title": "OPINION FROM REAL PEOPLE",
-  "des": "What clients says about our services.",
+  "title": "Work Experience",
+  "des": "A brief overview of my professional history.",
   "opinion":[
     {
-      "name": "Simonns Hodge",
-      "dig": "CEO, Credito",
+      "name": "The Lee Strasberg Theatre and Film Institute",
+      "dig": "Intern, January - May 2022",
       "img": "/assets/images/testimonial/user-thumb-one.jpg",
       "comment": "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
     },

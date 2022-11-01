@@ -4,7 +4,7 @@ hero:
   subTitle: "HI, MY NAME IS"
   title:
     firstPara: "River Magee"
-    secondPara: "UI/UX Designer"
+    secondPara: "Lets work together!"
   seeWorkBtn:
     text: "See My Work"
     link: "#project"
