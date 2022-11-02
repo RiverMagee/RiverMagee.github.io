@@ -6,14 +6,14 @@ hero:
     firstPara: "River Magee"
     secondPara: "Lets work together!"
   seeWorkBtn:
-    text: "See My Work"
+    text: "My Projects"
     link: "#project"
   connectBtn: 
     text: "Connect with me"
     link: "contact"
 
 portfolio:
-  subTitle: "MY RECENT WORK"
+  subTitle: "MY RECENT PROJECTS"
   title: "Here are some examples of personal and professional projects I have worked on / collaborated with."
   seeAllbtn:
     link: "portfolio"

@@ -5,19 +5,15 @@
   "contactsInfo":[
     {
       "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "text":"Brooklyn, New York"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
+      "link":"tel:646-469-2811",
+      "text":"646-469-2811"
     },
     {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
-    },
-    {
-      "link":"mailto:",
-      "text":"info@roxo.co"
+      "link":"mailto:rivermagee@gmail.com",
+      "text":"rivermagee@gmail.com"
     }
   ],
 
@@ -25,7 +21,7 @@
   "siteMap":[
     {
       "link":"about",
-      "text":"About Company"
+      "text":"About Me"
     },
     {
       "link":"portfolio",
@@ -44,8 +40,8 @@
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"#",
-      "text":"Medium"
+      "link":"https://www.linkedin.com/in/river-magee-a7b87824a/",
+      "text":"LinkedIn"
     },
     {
       "link":"#",
