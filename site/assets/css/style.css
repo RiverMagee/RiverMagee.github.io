@@ -377,9 +377,9 @@ textarea.form-control {
 }
 .site-counter-item-number {
   color: #fff;
-  font-size: 40px;
+  font-size: 30px;
   margin-bottom: 0;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .site-project, .site-blog {
