@@ -2,61 +2,19 @@
   "title": "Awards and Certifications",
   "teamMembers":[
     {
-      "name": "PABLO ESCOBAR",
-      "dig": "Creative Director",
-      "img": "/assets/images/team/trophy.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "name": "MAGNA CUM LAUDE",
+      "dig": "Awarded for Academic Achievement",
+      "img": "/assets/images/team/trophy.jpg"
     },
     {
-      "name": "MONTINO RIAU",
-      "dig": "Product Manager",
-      "img": "/assets/images/team/team-member-two.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "name": "Distinguished Alden Scholar",
+      "dig": "Awarded for Academic Achievement",
+      "img": "/assets/images/team/trophy.jpg"
     },
     {
-      "name": "ALEX NAASRI",
-      "dig": "Chief Design Officer",
-      "img": "/assets/images/team/team-member-three.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "name": "Trustee Scholarship",
+      "dig": "Awarded for Academic Achievement",
+      "img": "/assets/images/team/trophy.jpg"
     },
     {
       "name": "HONGMAN CHIOA",
