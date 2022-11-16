@@ -17,23 +17,9 @@
       "img": "/assets/images/team/trophy-icon.jpeg"
     },
     {
-      "name": "HONGMAN CHIOA",
-      "dig": "UX Researcher",
-      "img": "/assets/images/team/team-member-four.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "name": "Software Development with Python",
+      "dig": "Micro-Credential Program",
+      "img": "/assets/images/team/team-member-four.jpg"
     },
     {
       "name": "SANTIO ANDRESS",

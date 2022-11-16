@@ -32,7 +32,7 @@
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"https://www.linkedin.com/in/river-magee-a7b87824a/",
+      "link":"www.linkedin.com/in/river-magee",
       "text":"LinkedIn"
     },
     {
@@ -45,5 +45,5 @@
   "brandMotto":["Web Development/Design", "Digital Marketing", "User Experience"],
 
   "back2topIcon":"/assets/images/to-top.svg",
-  "customerComment":"I want to visit again"
+  "customerComment":"Want to go back up?"
 }
