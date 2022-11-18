@@ -32,12 +32,16 @@
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"www.linkedin.com/in/river-magee",
+      "link":"https://www.linkedin.com/in/river-magee",
       "text":"LinkedIn"
     },
     {
       "link":"#",
       "text":"Instagram"
+    },
+    {
+      "link": "https://github.com/RiverMagee",
+      "text": "GitHub"
     }
   ],
   
