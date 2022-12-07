@@ -1,6 +1,7 @@
 # CMPSC 480: Assignment 7, Starting a portfolio
 * Due: 18 November
   * With supporting assignments along the way
+  * This should be public now
 
 ## Supporting readings
 
