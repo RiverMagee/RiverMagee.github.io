@@ -1,0 +1,3 @@
+[submodule "fernfolio-11ty-template"]
+	path = fernfolio-11ty-template
+	url = https://github.com/TylerMRoderick/fernfolio-11ty-template
